@@ -1,0 +1,5 @@
+When trying to run the Java functionality (Main.java, UserManagement.java, InventoryManagement.java), you will need to create 3 text files:
+a file for users, a file for inventory, and a file for reports. Use the provided User file to get started (Userfile.txt) since these users
+have encrypted passwords alread. When running Main.java and it asks for a username enter "Ross" and password "Monroe", after the first
+login, you can create your own username and password. You will also need to update the paths for the text files in the code from the paths 
+that were on my personal computer to the paths on your computer in order to get the project to run.
