@@ -1,0 +1,5 @@
+EID Username EncryptedPassword
+12345 Ross ec034a0e1b5ad448338d6cca4f465a
+12344 Jack 7b34fdbd72fdecd596f0c583dd483a0f
+29719 Beth 7902ed1386067dae936e6639ba7f85a4
+103043 Scout ec034a0e1b5ad448338d6cca4f465a

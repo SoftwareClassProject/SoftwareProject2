@@ -1,0 +1,5 @@
+SKU Number	Product Name	Price	Stock Quantity
+63424	Monitor	$100	5
+73911	Computer	$500	8
+21198	Phone	$1000	5
+43670	TV	$400	4

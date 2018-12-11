@@ -1,0 +1,21 @@
+ReportID	Date	EmployeeID	
+23232	2018.06.26	ross	Generated Report for r	
+45454	2018.06.26	ross	Added new user: Ross	Displayed all users	Added new user: 98989	Scout	Displayed all users	Generated Report for 2018.06.26	
+87878	2018.06.26	Ross	Generated Report for 2018.06.26	
+65657	2018.06.28	Ross	Displayed all inventory	Added new inventory: Gibson SG	Displayed all inventory	Deleted inventory of SKU number item 0	Displayed all inventory	Added new inventory: SKU Number	Deleted inventory of SKU number item 0	Added new inventory: Product Name	Displayed all inventory	
+60789	2018.06.28	Ross	Displayed all inventory	Added new inventory: Gibson SG	Displayed all inventory	Updated quantity of SKU number item 1 to 8	Displayed all inventory	Generated Report for 2018.06.28	
+87654	2018.06.28	Ross	Generated Report for 2018.06.28	
+88665	2018.07.10	Ross	Displayed all inventory	Added new inventory: Sleep	Displayed all inventory	Generated Report for 2018.07.10	
+99887	2018.07.10	Ross	Generated Report for 2018.07.10	
+11332	2018.07.19	Ross	Displayed all inventory	
+11443	2018.08.16	Ross	
+33445	2018.09.04	Ross	Displayed all users	Displayed all inventory	
+22334	2018.10.26	Ross	Displayed all inventory	
+13344	2018.11.10	Ross	
+12233	2018.11.10	Ross	Displayed all users	Added new user: Beth	Displayed all users	Updated existing username	Displayed all users	Deleted a user: Scout	Displayed all users	Displayed all inventory	Added new inventory: SoftwareProjectGrade	Displayed all inventory	Updated product name of SKU number item 3 to Phone	Updated quantity of SKU number item 3 to 10	Updated unit price of SKU number item 3 to $1000	Displayed all inventory	Deleted inventory of SKU number item 1	Displayed all inventory	
+11223	2018.11.10	Ross	Generated Report for 2018.11.10	
+12345	2018.12.02	12345	Displayed all users	Updated existing username	Displayed all users	Updated existing user password	Displayed all users	Added new user: Scout, with EID: 103043	Displayed all users	Added new user: Pip, with EID: 89225	Deleted employee: 	Displayed all users	Deleted employee: 89225	Displayed all users	
+69743	2018.12.10	12345	Displayed all users	
+74095	2018.12.10	12345	Generated Report for 2018.12.10	
+89401	2018.12.10	12345	Displayed all users	Added new user: King, with EID: 14764	Displayed all users	Updated existing username	Displayed all users	Updated existing user password	Displayed all users	Deleted employee: 14764	Displayed all users	Displayed all inventory	Added new inventory: Xbox	Displayed all inventory	Updated quantity of SKU number item 77127 to 2	Updated product name of SKU number item 77127 to Xbox One	Updated unit price of SKU number item 77127 to $250	Displayed all inventory	Deleted inventory of SKU number item 77127	Displayed all inventory	Generated Report for 2018.12.10	
+36313	2018.12.10	12345	Generated Report for 2018.12.10	
